@@ -33,7 +33,7 @@ function draw() {
 	background(0,0,0,25);
 	
   imageMode(CENTER);
-  image(bgStatic, windowWidth / 2, windowHeight / 2, windowWidth / 1, windowHeight / 0.9);
+  image(bgStatic, windowWidth / 2, windowHeight / 2, windowWidth / 1, windowHeight / 1);
 
   imageMode(CENTER);
   var imgX = width / 2;
